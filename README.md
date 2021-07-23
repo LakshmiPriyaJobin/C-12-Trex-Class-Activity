@@ -1,1 +1,1 @@
-# C-12-Trex-Class-Activity
+# C12-Template-V3
